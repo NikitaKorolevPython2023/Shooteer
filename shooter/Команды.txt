@@ -1,0 +1,4 @@
+Установка модуля
+pip install pyinstaller
+Создание exe файла
+pyinstaller --onefile main.py
